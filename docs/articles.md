@@ -9,8 +9,7 @@
     users (registered via popcon)
 -   <http://opensourceecology.org/wiki/Industrial_Robot_Mechanical_Design#Toolchain_for_Toolpaths_.28Mechanical.29>
     -- modeling chain description
--   <http://www.mechanicaldesignforum.com/forum/kb.php?a=22> (as
-    [HTML](http://cr4.globalspec.com/blogentry/16801/OpenSource-CNC-From-CAD-to-FAB))
+-   <https://www.engineeringclicks.com/opensource-cnc-from-cad-to-fab/>
     -- using PyCAM or Blender for toolpath generation
 -   <http://fablabamersfoort.nl/?nl/Mantis+handleiding> (nl) -- using
     PyCAM with a Mantis machine
